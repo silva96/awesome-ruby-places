@@ -6,17 +6,9 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 - [Monzo](https://monzo.com/) - British online bank.
 
-## Crypto
+## Creators economy
 
-- [Coinbase](https://coinbase.com/) - Platform for buying, selling and trading crypto.
-
-## CRM
-
-- [Intercom](https://intercom.com/) - The complete AI-first customer service solution.
-
-## Delivery
-
-- [Instacart](https://instacart.com) - Grocery Delivery or Pickup from Local Stores Near You.
+- [Circle.so](https://circle.so/) - The all-in-one community platform for creators and brands.
 
 ## Dev Tools
 
@@ -26,8 +18,7 @@ A list of awesome companies currently using Ruby as one of their main backend la
 
 ## Ecommerce
 
-- [Shopify](https://shopify.com/) - Making commerce better for everyone.
-- [Whop](https://whop.com) - The destination to start a business, learn new skills, and build a network.
+- [Shopify](https://www.shopify.com/) - Making commerce better for everyone.
 
 ## Education
 - [CodeCrafters](https://codecrafters.io) - Learn to build complex software.
@@ -35,24 +26,15 @@ A list of awesome companies currently using Ruby as one of their main backend la
 - [InkWire](https://www.inkwire.co/) - Inkwire makes it easier to design and showcase engaging, rigorous learning.
 - [MindJoy](https://www.mindjoy.com/) - Learn and create STEM tutors and simulations with AI for curious classrooms!
 - [Zen Educate](https://zeneducate.com/) - We’ll find you your ideal classroom roles, whether you’re a Teacher or Paraprofessional.
+- [Profe.Social](https://profe.social/) - Marketplace and social network for spanish speaking K12 Teachers.
 
 ## Healthcare
 
-- [Pharmaseal](https://www.pharmaseal.co/) - Helping companies reduce risk through smarter management of clinical trials.
 - [SARD JV](https://www.sardjv.co.uk/) - NHS workforce optimisation.
 
 ## HR
 
 - [Gusto](https://gusto.com/) - Hire, pay, and manage your team all in one place.
-
-## Networking
-
-- [Cisco Meraki](https://meraki.cisco.com/) - The leader in cloud controlled Wi-Fi, routing, and security.
-
-## Personal Finance
-
-- [Cleo](https://web.meetcleo.com/) - The AI assistant that's helped 6 million people avoid their overdraft, build credit, and budget better.
-- [Maybe](https://maybe.co/) - Open-source OS for your personal finances.
 
 ## Project Management
 
@@ -65,3 +47,4 @@ A list of awesome companies currently using Ruby as one of their main backend la
 ## Transportation
 
 - [Limebike](https://li.me/) - Ride Green.
+- [Recorrido.cl](https://recorrido.cl/) - Bus ticket marketplace (aggregator) for Latin America.
